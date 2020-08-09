@@ -44,11 +44,11 @@ class Profile extends Component {
     super(props)
     this.state = {
       profileData: {
-        username: 'kabir.travel',
-        postCount: 0, 
-        followerCount: 10,
-        followingCount: 20,
-        fullName: 'Kabir Nazir'
+        username: 'imran.bandalli',
+        postCount: 1, 
+        followerCount: 30,
+        followingCount: 50,
+        fullName: 'Imran BM'
       },
       postsData: [],
       isEditNameModalOpen: false,

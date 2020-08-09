@@ -29,8 +29,8 @@ class Login extends Component {
   }
 
   loginSubmitHandler = () => {
-    const instagramAccessToken = "IGQVJVVWpWc0szWWhwY0J5dm1mMEluNjhqbWQtZAk9aYWpSdWN5S01Cb0pSUXVZAYklfeHZA0MWZANeU8xMnF4Um1mdWVlM3FKSzE2RTUzSURPWHJfeHlKYW9RU2ZAseFozWlRBM1RXOHNqOWVCQUhFN3pPbnZAMSkNFSVpJY0pR";
-    const username = "kabir";
+    const instagramAccessToken = "IGQVJWLVNVdnB4bU9ndG8xdktqSTJySXdpdF84VnJYZAVN0WDBfOVBaNURxaU9RQUNrZA0pnWHR3SEM0d2xIR3NnWkxWbjJER3VvU2JNT21WcmxKZAHZASRU5hcDdJSzZA0SXpoUG9SWW5icWNBMlktUU5DSVBCZAHIxWVAxUl8w";
+    const username = "imran";
     const password = "upgrad123";
 
     this.setState(state => ({
